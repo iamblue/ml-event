@@ -2,12 +2,16 @@
   "name": "ml-event",
   "version": "0.0.1",
   "description": "The event package for Microlattice.js",
-  "supportIC":[ "mt7687" ],
+  "supportIC": [
+    "mt7687"
+  ],
   "main": "index.js",
   "scripts": {
     "test": ""
   },
   "author": "iamblue",
   "license": "Apache2",
-  "dependencies": {}
+  "dependencies": {
+    "ml-utils": "0.0.1"
+  }
 }
