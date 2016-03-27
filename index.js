@@ -1,5 +1,4 @@
 var util = require('ml-utils');
-
 function EventEmitter() {
   this._events = {};
 };
