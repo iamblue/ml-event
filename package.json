@@ -1,6 +1,6 @@
 {
   "name": "ml-event",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The event package for Microlattice.js",
   "supportIC": [
     "mt7687"
