@@ -12,6 +12,6 @@
   "author": "iamblue",
   "license": "Apache2",
   "dependencies": {
-    "ml-utils": "0.0.1"
+    "ml-utils": "0.0.2"
   }
 }
